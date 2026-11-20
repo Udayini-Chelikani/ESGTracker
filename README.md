@@ -13,9 +13,6 @@ Stack: MongoDB, Express, React, Node (MERN) + Google Gemini for classification.
 esg-payment-scanner/
 ├── backend/      Express API, MongoDB models, Gemini integration, scoring & anomaly logic
 └── frontend/     React (Vite) dashboard
-```
-
-Each has its own README with setup steps. Quick start:
 
 ### 1. Backend
 
