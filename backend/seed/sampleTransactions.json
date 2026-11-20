@@ -1,0 +1,44 @@
+[
+  {
+    "clientName": "Alpha Manufacturing Ltd",
+    "beneficiaryName": "SunPeak Solar Installations",
+    "remittanceInfo": "Invoice 4471 - rooftop solar panel installation, Phase 2",
+    "amount": 5000000,
+    "currency": "INR"
+  },
+  {
+    "clientName": "Alpha Manufacturing Ltd",
+    "beneficiaryName": "Deccan Coal Supply Co",
+    "remittanceInfo": "Q3 coal supply for boiler operations",
+    "amount": 20000000,
+    "currency": "INR"
+  },
+  {
+    "clientName": "Alpha Manufacturing Ltd",
+    "beneficiaryName": "CarePlus Health Insurance",
+    "remittanceInfo": "Employee group health insurance premium - annual",
+    "amount": 1000000,
+    "currency": "INR"
+  },
+  {
+    "clientName": "Beta Textiles Pvt Ltd",
+    "beneficiaryName": "GreenLoop Recycling Pvt Ltd",
+    "remittanceInfo": "Textile waste recycling services - monthly contract",
+    "amount": 800000,
+    "currency": "INR"
+  },
+  {
+    "clientName": "Beta Textiles Pvt Ltd",
+    "beneficiaryName": "Unnamed Offshore Holdings LLC",
+    "remittanceInfo": "Consulting fee, ref 88213",
+    "amount": 15000000,
+    "currency": "INR"
+  },
+  {
+    "clientName": "Gamma Logistics",
+    "beneficiaryName": "EV Fleet Solutions",
+    "remittanceInfo": "Purchase of 10 electric delivery vans",
+    "amount": 12000000,
+    "currency": "INR"
+  }
+]
